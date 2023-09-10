@@ -1,3 +1,2 @@
 # Practical_DataMining
-Using C+ to handing neutrino oscillation experiment 
-GLoBES(1), Statistical DA(2), GEANT4(3)
+Handing neutrino oscillation experiment using C++ in Root (1), GLoBES(2), GEANT4(3) enviroment
